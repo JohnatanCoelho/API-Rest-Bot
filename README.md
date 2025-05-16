@@ -1,6 +1,6 @@
 # ESC-BOT🤖🏫
 
-### 🧑‍💻 Autores
+### 🧑‍💻 Desenvolvedores
 
 | Git hub | Autores|
 |---------|--------|
