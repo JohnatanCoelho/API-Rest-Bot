@@ -1,35 +1,41 @@
-# ESC-BOT🤖🏫
+# 🤖 ESC-BOT – Assistente Acadêmico Inteligente
 
-### 🧑‍💻 Desenvolvedores
+## 👨‍💻 Desenvolvedores
 
-| Git hub | Autores|
-|---------|--------|
-|<a href = "https://github.com/JohnatanCoelho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> | Johnatan Coelho 
-|<a href = "http://github.com/DaviGramacho"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> | Davi Pires
-| <a href = "https://github.com/IsaacOliveiraSouza"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>| Isaac de Oliveira
-|<a href = "https://github.com/GiovanaZucareli"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a> | Giovana Zucareli 
+| GitHub | Autor |
+|--------|-------|
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnatanCoelho) | Johnatan Coelho |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://github.com/DaviGramacho) | Davi Pires |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IsaacOliveiraSouza) | Isaac de Oliveira |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GiovanaZucareli) | Giovana Zucareli |
 
-### 📖 Descrição
+---
 
-Este bot foi desenvolvido com o objetivo de facilitar o acesso e a visualização de informações acadêmicas importantes de forma rápida e organizada. Ele permite consultar dados detalhados sobre uma determinada sala, o curso associado a ela e os alunos matriculados.
+## 📘 Descrição
 
-### 🌐 Tecnologias Utilizadas 
+O **ESC-BOT** foi desenvolvido com o objetivo de facilitar o acesso e a visualização de informações acadêmicas importantes de forma rápida e organizada.
 
-- **Ollama: qwen2.5:3b** Para processamento de linguagem natural e geração de respostas inteligentes.
+🔎 Com ele, é possível:
 
-- **SQLite:** é um sistema de gestão de base de dados relacional, leve e autônomo, que não requer um servidor.
+- Consultar dados detalhados sobre **salas de aula**;  
+- Verificar informações do **curso associado** à sala;  
+- Listar **alunos matriculados** de maneira prática.
 
-### 🖥️ Interface de Desenvolvimento
+---
 
-- **DEV UI:** é uma interface gráfica web que facilita o desenvolvimento de aplicações Quarkus, utilizada para comunicação com o bot.
+## 💻 Tecnologias Utilizadas
 
-### 📃 Testes 
+| Tecnologia | Descrição |
+|------------|-----------|
+| **🧠 Ollama: `qwen2.5:3b`** | Utilizado para o processamento de linguagem natural e geração de respostas inteligentes. |
+| **🗃️ SQLite** | Banco de dados relacional leve e autônomo, que não exige servidor. |
+| **🌐 DEV UI (Quarkus)** | Interface gráfica web que facilita o desenvolvimento e a comunicação com o bot. |
 
-- O usuário pode solicitar a lista de cursos presentes dentro da faculdade;
+---
 
-- O usuário pode solicitar a lista de todos os alunos da faculdade;
+## ✅ Funcionalidades Testadas
 
+- 🔍 Listagem de **cursos** presentes na faculdade;  
+- 🧾 Listagem de **todos os alunos** cadastrados na instituição.
 
-
-
-
+---
